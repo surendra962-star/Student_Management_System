@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Python build files
+build/
+dist/
+*.spec
+
+# PyInstaller
+*.manifest
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Project screenshots
+# Keep this line commented if screenshots should be uploaded
+# screenshots/
